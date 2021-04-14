@@ -6,4 +6,4 @@ Arduino fan controller dual bme280
 Github yhteys luotu onnistuneesti!
 
 ## Sivuhaara
-Keskiyön seisomakoodarikerho perustettu
+Keskiyön seisomakerho perustettu
